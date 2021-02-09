@@ -9,7 +9,7 @@ Made through: PyQt5
 
 To install Python 3.9.1 [click here.](https://www.python.org/downloads/)
 
-To check how to install these modules please visit [PyPI](https://pypi.org/)
+To check how to install PyQt5 please visit [PyPI](https://pypi.org/)
 
 Screenshot:
 
